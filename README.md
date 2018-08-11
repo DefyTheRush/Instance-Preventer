@@ -4,8 +4,9 @@
 A program that creates a new Program.cs file for your C# project, which prevents more than one program running at a time
 
 
-Design:
-![InstancePreventer](https://i.imgur.com/LG5zrUU.jpg)
+![InstancePreventer](https://i.imgur.com/U9MLVxI.jpg)
+
+
 
 Features:
 - Simple & Lightweight Design
@@ -19,9 +20,16 @@ Features:
 Tips + Images
 - Use the Name, Text, and Namespace parts of your code to make this right
 - Snipping Tool messed up the underlining on these images..
+
+
 ![image1](https://i.imgur.com/zF0ISxG.jpg)
+
+
 ![image2](https://i.imgur.com/EAPzjns.jpg)
+
+
 ![image3](https://i.imgur.com/k5Bxq95.jpg)
+
 
 Usage:
 - Load the program up, find the folder you want to place your new .cs file in, add in the Namespace, App, and Form data then create the file!
